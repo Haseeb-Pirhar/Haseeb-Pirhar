@@ -216,15 +216,19 @@ Survey platform focused on accessibility and inclusive living.
 
 ---
 
-# 🏆 GitHub Achievements
+# 👀 Profile Views
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Haseeb-Pirhar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Haseeb-Pirhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
+
+# 📊 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseeb-Pirhar&theme=tokyonight" width="100%" />
+</p>
 
 # 📈 Contribution Graph
 
