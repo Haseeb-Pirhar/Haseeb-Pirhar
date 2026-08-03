@@ -102,7 +102,8 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 <table width="100%">
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚀 Full Stack MERN Developer
 
@@ -110,17 +111,17 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 📅 **Mar 2024 – Present**
 
-#### 🔹 Responsibilities
+**Key Responsibilities**
 
-- Build scalable web applications using **Next.js**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **TypeScript**.
-- Design secure and scalable REST APIs.
-- Integrate **AWS S3**, authentication, email services, and third-party APIs.
-- Optimize application performance and database queries.
-- Collaborate with cross-functional teams using Agile methodologies.
+- 🚀 Developed scalable web applications using **Next.js, React.js, Node.js, Express.js, MongoDB & TypeScript**
+- 🔐 Designed secure REST APIs and authentication systems
+- ☁️ Integrated AWS S3, Email Services & Third-party APIs
+- ⚡ Optimized backend performance and database queries
+- 🤝 Collaborated in Agile development teams
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 MERN Stack Developer
 
@@ -128,15 +129,16 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 📅 **Apr 2023 – Mar 2024**
 
-#### 🔹 Responsibilities
+**Key Responsibilities**
 
-- Developed responsive MERN applications.
-- Built secure backend APIs with **Node.js** and **Express.js**.
-- Implemented **JWT Authentication** and **OAuth**.
-- Managed projects with **Git & GitHub**.
-- Improved code quality and application performance.
+- 💻 Built responsive MERN applications
+- 🔐 Implemented JWT Authentication & OAuth
+- ⚙️ Developed REST APIs with Express.js
+- 📦 Managed projects using Git & GitHub
+- 🚀 Improved performance and code quality
 
 </td>
+
 </tr>
 </table>
 
@@ -144,45 +146,46 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 # 🚀 Featured Projects
 
-<table>
+<table width="100%">
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ## 🐐 Bakra Bazaar
 
 🚧 **Status:** In Progress
 
-Modern livestock marketplace.
+Modern livestock marketplace for buying and selling livestock.
 
-### ✨ Features
+### ✨ Highlights
 
 - 🔐 Authentication
 - 🏪 Store Management
 - 📸 AWS S3 Upload
 - 👨‍💼 Admin Dashboard
-- 🔎 Search & Filters
+- 🔍 Search & Filters
 
-**Tech**
+**🛠 Tech Stack**
 
 `Next.js` `Node.js` `MongoDB` `AWS S3` `TypeScript`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛒 YallahNshoof
 
-Marketplace platform.
+Marketplace platform supporting Buy, Sell & Rent.
 
-### ✨ Features
+### ✨ Highlights
 
 - 🛍 Buy / Sell / Rent
 - 🔐 Authentication
 - 💳 Payment Integration
 - 📦 REST APIs
 
-**Tech**
+**🛠 Tech Stack**
 
 `Node.js` `Express.js` `MongoDB` `TypeScript`
 
@@ -192,31 +195,32 @@ Marketplace platform.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🍽 Restaurant Management
 
-### ✨ Features
+Restaurant management platform.
+
+### ✨ Highlights
 
 - 🍔 Menu Management
 - 🧾 Orders
 - 💳 Payments
-- 👨‍💼 Dashboard
+- 📊 Dashboard
 
-**Tech**
+**🛠 Tech Stack**
 
-`React.js`
-`Node.js`
-`Express.js`
-`MongoDB`
+`React.js` `Node.js` `Express.js` `MongoDB`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🐶 PetzApp
 
-### ✨ Features
+Pet management platform.
+
+### ✨ Highlights
 
 - 🔐 JWT Authentication
 - 📱 OTP Verification
@@ -224,11 +228,9 @@ Marketplace platform.
 - 🔔 Notifications
 - 👤 User Management
 
-**Tech**
+**🛠 Tech Stack**
 
-`Node.js`
-`Express.js`
-`MongoDB`
+`Node.js` `Express.js` `MongoDB`
 
 </td>
 
@@ -236,48 +238,48 @@ Marketplace platform.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ☁️ LoopedIn
 
-### ✨ Features
+Social networking platform.
+
+### ✨ Highlights
 
 - ☁️ AWS S3
 - ❤️ Likes
 - 💬 Comments
-- 👥 User Authentication
+- 👥 Authentication
 - 🎫 Ticket Booking
 
-**Tech**
+**🛠 Tech Stack**
 
-`Node.js`
-`Express.js`
-`MongoDB`
+`Node.js` `Express.js` `MongoDB`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌍 Inclusive Living
 
-### ✨ Features
+Accessibility & survey platform.
+
+### ✨ Highlights
 
 - 📊 Surveys
 - 👥 User Management
 - 📈 Reports
 - 🌐 Accessibility
 
-**Tech**
+**🛠 Tech Stack**
 
-`Node.js`
-`Express.js`
-`MongoDB`
+`Node.js` `Express.js` `MongoDB`
 
 </td>
 
 </tr>
 
-## </table>
+</table>
 
 ---
 
