@@ -49,8 +49,6 @@ My primary expertise is in **Node.js**, **Express.js**, **MongoDB**, **TypeScrip
 
 I have worked on marketplace platforms, restaurant management systems, social platforms, and enterprise backend solutions, always focusing on clean code, scalability, and maintainability.
 
-I'm currently open to international opportunities, especially **Saudi Arabia**, **UAE**, and remote positions where I can contribute to impactful products while continuously growing as a software engineer.
-
 ---
 
 # 🚀 Tech Stack
