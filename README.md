@@ -164,6 +164,7 @@ Backend APIs for pet management platform.
 - Media Upload
 - Notifications
 - User Management
+- Online MarketPlace Management
 
 ---
 
@@ -179,6 +180,7 @@ Backend platform with secure authentication and AWS S3 integration.
 - Likes
 - Reports
 - User Authentication
+- Ticket Booking Management
 
 ---
 
@@ -189,3 +191,45 @@ Survey platform focused on accessibility and inclusive living.
 **Tech Stack**
 
 `Node.js` • `Express.js` • `MongoDB`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haseeb-Pirhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Pirhar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Haseeb-Pirhar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Haseeb-Pirhar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-Pirhar&theme=tokyo-night&hide_border=true"/>
+
+</p>
