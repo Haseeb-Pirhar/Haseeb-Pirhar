@@ -245,3 +245,25 @@ Survey platform focused on accessibility and inclusive living.
 <br>
 <b>💼 Status:</b> Open to Work
 </p>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Build scalable backend architectures with Node.js & TypeScript.
+- ☁️ Deepen expertise in AWS cloud services and Docker.
+- 📚 Learn Microservices, Kubernetes, and System Design.
+- 🌍 Secure a Full Stack / Backend Developer role in Saudi Arabia or a remote international team.
+- 🤝 Contribute to impactful open-source projects.
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E3A8A&height=120&section=footer"/>
+
+</div>
