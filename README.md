@@ -150,7 +150,7 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🐐 Bakra Bazaar
 
@@ -174,7 +174,7 @@ Modern livestock marketplace for buying and selling livestock.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 🛒 YallahNshoof
 
