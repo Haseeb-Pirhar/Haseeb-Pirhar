@@ -27,3 +27,62 @@ Building scalable web applications with Node.js, Express, MongoDB, React, Next.j
 <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-red?style=for-the-badge"/>
 
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm **Haseeb Ur Rahman**, a passionate **Full Stack MERN Developer** with over **2 years of professional experience** in building scalable, secure, and high-performance web applications.
+
+My primary expertise is in **Node.js**, **Express.js**, **MongoDB**, **TypeScript**, **React.js**, and **Next.js**. I enjoy designing clean backend architectures, developing RESTful APIs, integrating third-party services, and optimizing application performance.
+
+I have worked on marketplace platforms, restaurant management systems, social platforms, and enterprise backend solutions, always focusing on clean code, scalability, and maintainability.
+
+I'm currently open to international opportunities, especially **Saudi Arabia**, **UAE**, and remote positions where I can contribute to impactful products while continuously growing as a software engineer.
+
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,npm,yarn" />
+</p>
+
+### 📚 Additional Skills
+
+- REST APIs
+- JWT Authentication
+- OAuth
+- AWS S3
+- Socket.IO
+- WebSockets
+- Multer
+- MVC Architecture
+- Clean Architecture
+- Responsive Design
