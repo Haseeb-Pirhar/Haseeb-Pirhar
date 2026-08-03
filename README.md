@@ -219,3 +219,29 @@ Survey platform focused on accessibility and inclusive living.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-Pirhar&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+
+  <a href="mailto:haseebpirhar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+
+  <a href="https://github.com/Haseeb-Pirhar">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+</p>
+
+<p align="center">
+<b>📧 Email:</b> haseebpirhar@gmail.com
+<br>
+<b>📍 Location:</b> Lahore, Pakistan
+<br>
+<b>💼 Status:</b> Open to Work
+</p>
