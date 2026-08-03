@@ -100,9 +100,9 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 # 💼 Professional Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### 🚀 Full Stack MERN Developer
 
