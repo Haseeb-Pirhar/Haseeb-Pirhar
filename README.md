@@ -30,6 +30,14 @@ Building scalable web applications with Node.js, Express, MongoDB, React, Next.j
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haseeb-Pirhar&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Haseeb-Pirhar?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Haseeb-Pirhar?label=Stars&style=flat-square" />
+</p>
+
+---
+
 # 👨‍💻 About Me
 
 I'm **Haseeb Ur Rahman**, a passionate **Full Stack MERN Developer** with over **2 years of professional experience** in building scalable, secure, and high-performance web applications.
@@ -215,20 +223,6 @@ Survey platform focused on accessibility and inclusive living.
 </p>
 
 ---
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Haseeb-Pirhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-# 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haseeb-Pirhar&theme=tokyonight" width="100%" />
-</p>
 
 # 📈 Contribution Graph
 
