@@ -51,50 +51,50 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Tech Stack & Tools
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,react,nextjs,redux,tailwind,html,css,mongodb,mysql,redis,aws,docker,git,github,postman,vscode,npm,yarn&perline=8" />
 </p>
 
-### ⚙️ Backend Development
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+| 💻 Backend | 🎨 Frontend  | 🗄️ Database | ☁️ DevOps & Cloud |
+| :--------: | :----------: | :---------: | :---------------: |
+|  Node.js   |   React.js   |   MongoDB   |        AWS        |
+| Express.js |   Next.js    |    MySQL    |      Docker       |
+| TypeScript |    Redux     |    Redis    |   Git & GitHub    |
+| REST APIs  | Tailwind CSS |  Mongoose   |      Postman      |
 
-### 🎨 Frontend Development
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,html,css" />
-</p>
+---
 
-### 🗄️ Database
+## ⚡ Core Expertise
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<p align="center">
 
-### ☁️ Cloud & Tools
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,npm,yarn" />
-</p>
+<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
 
-### 📚 Additional Skills
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-- REST APIs
-- JWT Authentication
-- OAuth
-- AWS S3
-- Socket.IO
-- WebSockets
-- Multer
-- MVC Architecture
-- Clean Architecture
-- Responsive Design
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
+
+<img src="https://img.shields.io/badge/MVC-2C3E50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-0066CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Responsive%20Design-FF4088?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Performance%20Optimization-00C853?style=for-the-badge"/>
+
+## </p>
 
 ---
 
