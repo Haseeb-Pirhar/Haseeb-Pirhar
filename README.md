@@ -86,3 +86,106 @@ I'm currently open to international opportunities, especially **Saudi Arabia**, 
 - MVC Architecture
 - Clean Architecture
 - Responsive Design
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Full Stack MERN Developer
+
+**INVOSQUARE** | Mar 2024 – Present
+
+- Developed scalable Full Stack web applications using **Next.js, React.js, Node.js, Express.js, MongoDB, and TypeScript**.
+- Designed secure and maintainable RESTful APIs.
+- Optimized application performance and database queries.
+- Integrated third-party services including AWS S3, authentication systems, and email services.
+- Collaborated with cross-functional teams following Agile development practices.
+
+---
+
+## 💻 MERN Stack Developer
+
+**HasbiSoft** | Apr 2023 – Mar 2024
+
+- Developed responsive web applications using React.js and Node.js.
+- Built backend services with Express.js and MongoDB.
+- Implemented JWT Authentication and OAuth.
+- Maintained projects using Git & GitHub.
+- Improved application performance and code quality.
+
+---
+
+# 🚀 Featured Projects
+
+## 🐐 Bakra Bazaar _(In Progress)_
+
+Modern livestock marketplace built with **Next.js**, **Node.js**, **MongoDB**, and **AWS S3**.
+
+### Features
+
+- User Authentication
+- Product Listings
+- Store Management
+- Image Upload (AWS S3)
+- Admin Dashboard
+- Search & Filters
+- Responsive UI
+
+---
+
+## 🛒 YallahNshoof
+
+Marketplace backend supporting buying, selling, and renting workflows.
+
+**Tech Stack**
+
+`Node.js` • `Express.js` • `MongoDB` • `TypeScript`
+
+---
+
+## 🍽 Restaurant Management System
+
+Restaurant platform for menu management, orders, payments, and customer interactions.
+
+**Tech Stack**
+
+`React.js` • `Node.js` • `Express.js` • `MongoDB`
+
+---
+
+## 🐶 PetzApp
+
+Backend APIs for pet management platform.
+
+### Features
+
+- JWT Authentication
+- OTP Verification
+- Media Upload
+- Notifications
+- User Management
+
+---
+
+## ☁️ LoopedIn
+
+Backend platform with secure authentication and AWS S3 integration.
+
+### Features
+
+- AWS S3
+- Posts
+- Comments
+- Likes
+- Reports
+- User Authentication
+
+---
+
+## 🌍 Inclusive Living
+
+Survey platform focused on accessibility and inclusive living.
+
+**Tech Stack**
+
+`Node.js` • `Express.js` • `MongoDB`
