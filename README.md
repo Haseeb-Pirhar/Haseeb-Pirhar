@@ -152,33 +152,37 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 <td width="50%" valign="top">
 
-## 🐐 Bakra Bazaar
+### 🐐 Bakra Bazaar
 
 🚧 **Status:** In Progress
 
+📖 **Description**
+
 Modern livestock marketplace for buying and selling livestock.
 
-### ✨ Highlights
+**✨ Key Features**
 
 - 🔐 Authentication
 - 🏪 Store Management
-- 📸 AWS S3 Upload
+- 📸 AWS S3 Image Upload
 - 👨‍💼 Admin Dashboard
-- 🔍 Search & Filters
+- 🔍 Advanced Search & Filters
 
 **🛠 Tech Stack**
 
-`Next.js` `Node.js` `MongoDB` `AWS S3` `TypeScript`
+`Next.js` `Node.js` `MongoDB` `TypeScript` `AWS S3`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🛒 YallahNshoof
+### 🛒 YallahNshoof
 
-Marketplace platform supporting Buy, Sell & Rent.
+📖 **Description**
 
-### ✨ Highlights
+Marketplace platform supporting buying, selling and renting.
+
+**✨ Key Features**
 
 - 🛍 Buy / Sell / Rent
 - 🔐 Authentication
@@ -197,16 +201,18 @@ Marketplace platform supporting Buy, Sell & Rent.
 
 <td width="50%" valign="top">
 
-## 🍽 Restaurant Management
+### 🍽 Restaurant Management
 
-Restaurant management platform.
+📖 **Description**
 
-### ✨ Highlights
+Restaurant management platform with complete order workflow.
+
+**✨ Key Features**
 
 - 🍔 Menu Management
-- 🧾 Orders
-- 💳 Payments
-- 📊 Dashboard
+- 🧾 Order Processing
+- 💳 Payment Handling
+- 📊 Admin Dashboard
 
 **🛠 Tech Stack**
 
@@ -216,11 +222,13 @@ Restaurant management platform.
 
 <td width="50%" valign="top">
 
-## 🐶 PetzApp
+### 🐶 PetzApp
 
-Pet management platform.
+📖 **Description**
 
-### ✨ Highlights
+Pet management platform with secure authentication.
+
+**✨ Key Features**
 
 - 🔐 JWT Authentication
 - 📱 OTP Verification
@@ -240,16 +248,17 @@ Pet management platform.
 
 <td width="50%" valign="top">
 
-## ☁️ LoopedIn
+### ☁️ LoopedIn
 
-Social networking platform.
+📖 **Description**
 
-### ✨ Highlights
+Social networking platform with AWS integration.
+
+**✨ Key Features**
 
 - ☁️ AWS S3
-- ❤️ Likes
-- 💬 Comments
-- 👥 Authentication
+- ❤️ Likes & Comments
+- 👥 User Authentication
 - 🎫 Ticket Booking
 
 **🛠 Tech Stack**
@@ -260,13 +269,15 @@ Social networking platform.
 
 <td width="50%" valign="top">
 
-## 🌍 Inclusive Living
+### 🌍 Inclusive Living
 
-Accessibility & survey platform.
+📖 **Description**
 
-### ✨ Highlights
+Accessibility and survey management platform.
 
-- 📊 Surveys
+**✨ Key Features**
+
+- 📊 Survey System
 - 👥 User Management
 - 📈 Reports
 - 🌐 Accessibility
