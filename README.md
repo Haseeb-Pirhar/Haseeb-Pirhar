@@ -100,106 +100,184 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 # 💼 Professional Experience
 
-## 🚀 Full Stack MERN Developer
+<table>
+<tr>
+<td width="50%">
 
-**INVOSQUARE** | Mar 2024 – Present
+### 🚀 Full Stack MERN Developer
 
-- Developed scalable Full Stack web applications using **Next.js, React.js, Node.js, Express.js, MongoDB, and TypeScript**.
-- Designed secure and maintainable RESTful APIs.
-- Optimized application performance and database queries.
-- Integrated third-party services including AWS S3, authentication systems, and email services.
-- Collaborated with cross-functional teams following Agile development practices.
+**INVOSQUARE**
 
----
+📅 **Mar 2024 – Present**
 
-## 💻 MERN Stack Developer
+#### 🔹 Responsibilities
 
-**HasbiSoft** | Apr 2023 – Mar 2024
+- Build scalable web applications using **Next.js**, **React.js**, **Node.js**, **Express.js**, **MongoDB**, and **TypeScript**.
+- Design secure and scalable REST APIs.
+- Integrate **AWS S3**, authentication, email services, and third-party APIs.
+- Optimize application performance and database queries.
+- Collaborate with cross-functional teams using Agile methodologies.
 
-- Developed responsive web applications using React.js and Node.js.
-- Built backend services with Express.js and MongoDB.
-- Implemented JWT Authentication and OAuth.
-- Maintained projects using Git & GitHub.
-- Improved application performance and code quality.
+</td>
+
+<td width="50%">
+
+### 💻 MERN Stack Developer
+
+**HasbiSoft**
+
+📅 **Apr 2023 – Mar 2024**
+
+#### 🔹 Responsibilities
+
+- Developed responsive MERN applications.
+- Built secure backend APIs with **Node.js** and **Express.js**.
+- Implemented **JWT Authentication** and **OAuth**.
+- Managed projects with **Git & GitHub**.
+- Improved code quality and application performance.
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🐐 Bakra Bazaar _(In Progress)_
+<table>
 
-Modern livestock marketplace built with **Next.js**, **Node.js**, **MongoDB**, and **AWS S3**.
+<tr>
+<td width="50%">
 
-### Features
+## 🐐 Bakra Bazaar
 
-- User Authentication
-- Product Listings
-- Store Management
-- Image Upload (AWS S3)
-- Admin Dashboard
-- Search & Filters
-- Responsive UI
+🚧 **Status:** In Progress
 
----
+Modern livestock marketplace.
+
+### ✨ Features
+
+- 🔐 Authentication
+- 🏪 Store Management
+- 📸 AWS S3 Upload
+- 👨‍💼 Admin Dashboard
+- 🔎 Search & Filters
+
+**Tech**
+
+`Next.js` `Node.js` `MongoDB` `AWS S3` `TypeScript`
+
+</td>
+
+<td width="50%">
 
 ## 🛒 YallahNshoof
 
-Marketplace backend supporting buying, selling, and renting workflows.
+Marketplace platform.
 
-**Tech Stack**
+### ✨ Features
 
-`Node.js` • `Express.js` • `MongoDB` • `TypeScript`
+- 🛍 Buy / Sell / Rent
+- 🔐 Authentication
+- 💳 Payment Integration
+- 📦 REST APIs
 
----
+**Tech**
 
-## 🍽 Restaurant Management System
+`Node.js` `Express.js` `MongoDB` `TypeScript`
 
-Restaurant platform for menu management, orders, payments, and customer interactions.
+</td>
 
-**Tech Stack**
+</tr>
 
-`React.js` • `Node.js` • `Express.js` • `MongoDB`
+<tr>
 
----
+<td width="50%">
+
+## 🍽 Restaurant Management
+
+### ✨ Features
+
+- 🍔 Menu Management
+- 🧾 Orders
+- 💳 Payments
+- 👨‍💼 Dashboard
+
+**Tech**
+
+`React.js`
+`Node.js`
+`Express.js`
+`MongoDB`
+
+</td>
+
+<td width="50%">
 
 ## 🐶 PetzApp
 
-Backend APIs for pet management platform.
+### ✨ Features
 
-### Features
+- 🔐 JWT Authentication
+- 📱 OTP Verification
+- 📸 Media Upload
+- 🔔 Notifications
+- 👤 User Management
 
-- JWT Authentication
-- OTP Verification
-- Media Upload
-- Notifications
-- User Management
-- Online MarketPlace Management
+**Tech**
 
----
+`Node.js`
+`Express.js`
+`MongoDB`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ## ☁️ LoopedIn
 
-Backend platform with secure authentication and AWS S3 integration.
+### ✨ Features
 
-### Features
+- ☁️ AWS S3
+- ❤️ Likes
+- 💬 Comments
+- 👥 User Authentication
+- 🎫 Ticket Booking
 
-- AWS S3
-- Posts
-- Comments
-- Likes
-- Reports
-- User Authentication
-- Ticket Booking Management
+**Tech**
 
----
+`Node.js`
+`Express.js`
+`MongoDB`
+
+</td>
+
+<td width="50%">
 
 ## 🌍 Inclusive Living
 
-Survey platform focused on accessibility and inclusive living.
+### ✨ Features
 
-**Tech Stack**
+- 📊 Surveys
+- 👥 User Management
+- 📈 Reports
+- 🌐 Accessibility
 
-`Node.js` • `Express.js` • `MongoDB`
+**Tech**
+
+`Node.js`
+`Express.js`
+`MongoDB`
+
+</td>
+
+</tr>
+
+## </table>
 
 ---
 
