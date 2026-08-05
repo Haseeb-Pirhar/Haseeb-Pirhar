@@ -245,18 +245,6 @@ A survey and accessibility platform designed to collect insights, manage reports
 
 `Node.js` `Express.js` `MongoDB`
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Haseeb-Pirhar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-Pirhar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ---
 
 # 📈 Contribution Graph
