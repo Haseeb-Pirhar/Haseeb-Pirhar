@@ -94,7 +94,7 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 <img src="https://img.shields.io/badge/Performance%20Optimization-00C853?style=for-the-badge"/>
 
-## </p>
+</p>
 
 ---
 
@@ -243,7 +243,7 @@ A survey and accessibility platform designed to collect insights, manage reports
 
 ### 🛠 Tech Stack
 
-## `Node.js` `Express.js` `MongoDB`
+`Node.js` `Express.js` `MongoDB`
 
 ---
 
@@ -260,7 +260,7 @@ A survey and accessibility platform designed to collect insights, manage reports
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/haseeb-khan-583323325" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 
