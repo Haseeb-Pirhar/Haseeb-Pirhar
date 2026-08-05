@@ -146,151 +146,128 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 # 🚀 Featured Projects
 
-<table width="100%">
+## 🐐 Bakra Bazaar
 
-<tr>
+> 🚧 **Status:** In Progress
 
-<td width="60%" valign="top">
+### 📖 Description
 
-### 🐐 Bakra Bazaar
+A modern full-stack livestock marketplace that enables users to buy and sell livestock through a secure and scalable platform. The application includes store management, image uploads, advanced search, and an admin dashboard.
 
-🚧 **Status:** In Progress
+### ✨ Key Features
 
-📖 **Description**
-
-Modern livestock marketplace for buying and selling livestock.
-
-**✨ Key Features**
-
-- 🔐 Authentication
+- 🔐 Secure Authentication & Authorization
 - 🏪 Store Management
 - 📸 AWS S3 Image Upload
 - 👨‍💼 Admin Dashboard
 - 🔍 Advanced Search & Filters
+- ❤️ Wishlist & Favorites
+- 📱 Responsive Design
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack
 
-`Next.js` `Node.js` `MongoDB` `TypeScript` `AWS S3`
+`Next.js` `Node.js` `Express.js` `MongoDB` `TypeScript` `AWS S3`
 
-</td>
+---
 
-<td width="60%" valign="top">
+## 🛒 YallahNshoof
 
-### 🛒 YallahNshoof
+### 📖 Description
 
-📖 **Description**
+A scalable marketplace platform where users can buy, sell, and rent products with secure authentication, payment integration, and role-based access.
 
-Marketplace platform supporting buying, selling and renting.
-
-**✨ Key Features**
+### ✨ Key Features
 
 - 🛍 Buy / Sell / Rent
-- 🔐 Authentication
+- 🔐 JWT Authentication
 - 💳 Payment Integration
-- 📦 REST APIs
+- 📦 RESTful APIs
+- 👥 Role-Based Access
+- 📱 Responsive UI
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack
 
 `Node.js` `Express.js` `MongoDB` `TypeScript`
 
-</td>
+---
 
-</tr>
+## 🍽 Restaurant Management System
 
-<tr>
+### 📖 Description
 
-<td width="50%" valign="top">
+A complete restaurant management solution for handling menus, orders, payments, customers, and dashboard analytics.
 
-### 🍽 Restaurant Management
-
-📖 **Description**
-
-Restaurant management platform with complete order workflow.
-
-**✨ Key Features**
+### ✨ Key Features
 
 - 🍔 Menu Management
-- 🧾 Order Processing
-- 💳 Payment Handling
+- 🧾 Order Management
+- 💳 Payment Processing
 - 📊 Admin Dashboard
+- 👨‍🍳 Staff Management
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 🐶 PetzApp
 
-### 🐶 PetzApp
+### 📖 Description
 
-📖 **Description**
+A backend-driven pet management platform providing secure authentication, notifications, media management, and user administration.
 
-Pet management platform with secure authentication.
-
-**✨ Key Features**
+### ✨ Key Features
 
 - 🔐 JWT Authentication
 - 📱 OTP Verification
 - 📸 Media Upload
-- 🔔 Notifications
+- 🔔 Push Notifications
 - 👤 User Management
+- 🛍 Marketplace Module
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack
 
 `Node.js` `Express.js` `MongoDB`
 
-</td>
+---
 
-</tr>
+## ☁️ LoopedIn
 
-<tr>
+### 📖 Description
 
-<td width="50%" valign="top">
+A social networking platform featuring secure authentication, AWS S3 media storage, ticket booking, and user engagement features.
 
-### ☁️ LoopedIn
+### ✨ Key Features
 
-📖 **Description**
-
-Social networking platform with AWS integration.
-
-**✨ Key Features**
-
-- ☁️ AWS S3
+- ☁️ AWS S3 Integration
 - ❤️ Likes & Comments
 - 👥 User Authentication
 - 🎫 Ticket Booking
+- 📸 Media Management
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack
 
 `Node.js` `Express.js` `MongoDB`
 
-</td>
+---
 
-<td width="50%" valign="top">
+## 🌍 Inclusive Living
 
-### 🌍 Inclusive Living
+### 📖 Description
 
-📖 **Description**
+A survey and accessibility platform designed to collect insights, manage reports, and improve inclusive living experiences.
 
-Accessibility and survey management platform.
+### ✨ Key Features
 
-**✨ Key Features**
-
-- 📊 Survey System
+- 📊 Survey Management
 - 👥 User Management
-- 📈 Reports
-- 🌐 Accessibility
+- 📈 Reports & Analytics
+- 🌐 Accessibility Features
 
-**🛠 Tech Stack**
+### 🛠 Tech Stack
 
 `Node.js` `Express.js` `MongoDB`
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
