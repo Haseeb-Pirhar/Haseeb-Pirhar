@@ -146,30 +146,6 @@ I have worked on marketplace platforms, restaurant management systems, social pl
 
 # 🚀 Featured Projects
 
-## 🐐 Bakra Bazaar
-
-> 🚧 **Status:** In Progress
-
-### 📖 Description
-
-A modern full-stack livestock marketplace that enables users to buy and sell livestock through a secure and scalable platform. The application includes store management, image uploads, advanced search, and an admin dashboard.
-
-### ✨ Key Features
-
-- 🔐 Secure Authentication & Authorization
-- 🏪 Store Management
-- 📸 AWS S3 Image Upload
-- 👨‍💼 Admin Dashboard
-- 🔍 Advanced Search & Filters
-- ❤️ Wishlist & Favorites
-- 📱 Responsive Design
-
-### 🛠 Tech Stack
-
-`Next.js` `Node.js` `Express.js` `MongoDB` `TypeScript` `AWS S3`
-
----
-
 ## 🛒 YallahNshoof
 
 ### 📖 Description
@@ -267,17 +243,7 @@ A survey and accessibility platform designed to collect insights, manage reports
 
 ### 🛠 Tech Stack
 
-`Node.js` `Express.js` `MongoDB`
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Haseeb-Pirhar&theme=tokyonight&hide_border=true"/>
-
-</p>
+## `Node.js` `Express.js` `MongoDB`
 
 ---
 
